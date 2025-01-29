@@ -110,5 +110,5 @@ npm run benchmark
 MIT © [[Yaroslav Kharchenko](https://github.com/yarik01337)]
 
 ## Support:
-- GitHub: yarik01337/simple-snowflake-id
+- GitHub: [[yarik01337/simple-snowflake-id](https://github.com/yarik01337/snowflake-id)]
 - Email: kharchnekoyaroslav@gmail.com
