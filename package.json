@@ -1,6 +1,6 @@
 {
   "name": "simple-snowflake-id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Distributed unique ID generator implementing Twitter Snowflake algorithm",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
