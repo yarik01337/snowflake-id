@@ -107,8 +107,7 @@ npm run benchmark
 ``` 
 
 ## License
-MIT © [![Yaroslav Kharchenko](https://github.com/yarik01337)]
-Full license text: [License](LICENSE) 
+MIT © [[Yaroslav Kharchenko](https://github.com/yarik01337)]
 
 ## Support:
 - GitHub: yarik01337/simple-snowflake-id
